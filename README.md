@@ -51,3 +51,7 @@ It is currently supported on Windows desktops only.
 The author is not liable for any damage, loss, or misuse.**
 
 **Stay focused. Stay clean. 🛡️**
+
+**⚠️ Disclaimer 02**
+
+This Tool is a bit buggy, It sometimes shutdowns your PC randomly when even non banned words are typed(SORRY FOR THAT, FIX IT IF POSSIBLE THANKS)
