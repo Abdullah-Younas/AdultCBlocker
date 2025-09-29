@@ -32,6 +32,8 @@ Point it to the keylogger_shutdown.pyw file.
 
 Open Task Manager → Startup tab and make sure the script appears and is enabled.
 
+Restart your machine and voila
+
 Upon system startup, ACB will run silently in the background and begin monitoring.
 
 **🚫 Banned Words**
